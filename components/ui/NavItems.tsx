@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import { NAV_ITEMS } from "@/lib/constants"
 import Link from "next/link"
